@@ -1,0 +1,24 @@
+# Go
+*.exe
+*.exe~
+*.out
+*.test
+
+# Build artifacts
+bin/
+dist/
+build/
+
+# Docker
+*.tar
+docker-compose.override.yml
+
+# Env
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
